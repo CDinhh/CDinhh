@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0388fc"  />
+</div>
+
 <br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CDinhh.CDinhh&"  />
@@ -44,8 +48,9 @@
 ###
 
 <div align="center">
-    <img src="github-readme-stats-sigma-nine.vercel.app/api?username=CDinhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats-sigma-nine.vercel.app/api?username=CDinhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
+
+  <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph"  />
 </div>
 
 ###
@@ -55,3 +60,7 @@
 <img src="https://raw.githubusercontent.com/CDinhh/CDinhh/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=0388fc"  />
+</div>
