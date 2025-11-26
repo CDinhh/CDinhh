@@ -48,7 +48,8 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats-sigma-nine.vercel.app/api?username=CDinhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"/>
+      <img src="https://streak-stats.demolab.com/?user=CDinhh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&refresh=1" height="150" alt="streak graph"  />
+
 
   <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph"  />
 </div>
