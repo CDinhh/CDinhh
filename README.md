@@ -9,10 +9,11 @@
 ###
 
 <h2 align="left">Hi 👋! My name is Cong Dinh and I'm studying Software Engineering at FPTU</h2>
-<br/><br/>
+<br/>
 
 
 <div align="left">
+<h3>🛠Languages and Tools</h3>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="30" alt="vite logo"  />
@@ -37,6 +38,7 @@
 ###
 
 <div align="left">
+<h3>👨‍💻 About me</h3>
   <a href="https://www.facebook.com/congdinh.p/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
