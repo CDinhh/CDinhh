@@ -5,6 +5,7 @@
 <br clear="both">
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CDinhh.CDinhh&"  />
+<img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="110" alt="Profile Pic" />
 
 ###
 
@@ -96,20 +97,12 @@
         <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph"  />
       </td>
       <td align="center" valign="middle" width="35%">
-        <img src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="200" style="border-radius: 50%; border: 4px solid #0388fc;" alt="Profile Pic" />
+        <a href="https://open.spotify.com/user/31auwt2sqv3yfunk5cdzj2v52oge">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31auwt2sqv3yfunk5cdzj2v52oge&count=5&unique=false" width="420" alt="Spotify recently played"  />
+        </a>
       </td>
     </tr>
   </table>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31auwt2sqv3yfunk5cdzj2v52oge">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31auwt2sqv3yfunk5cdzj2v52oge&count=5&unique=false" width="420" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
