@@ -75,6 +75,8 @@
 </div>
 
 ###
+<img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="110" alt="Profile Pic" />
+
 
 <div align="left">
 <h3> About me</h3>
@@ -85,16 +87,16 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<br/><br/>
+<br clear="all"/><br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-dusky-alpha.vercel.app/?user=CDinhh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&refresh=1" width="480" align="middle" alt="streak graph" />
-  <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="310" align="middle" alt="Languages graph"  />
+  <img src="https://github-readme-streak-stats-dusky-alpha.vercel.app/?user=CDinhh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&refresh=1" width="480" alt="streak graph" />
+  <br/><br/>
+  <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" width="480" alt="Languages graph"  />
   <br/><br/>
   <a href="https://open.spotify.com/user/31auwt2sqv3yfunk5cdzj2v52oge">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31auwt2sqv3yfunk5cdzj2v52oge" width="480" align="middle" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31auwt2sqv3yfunk5cdzj2v52oge" width="480" alt="Spotify recently played"  />
   </a>
-  <img src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="310" align="middle" alt="Profile Pic" />
 </div>
 
 ###
@@ -102,6 +104,8 @@
 <br clear="both">
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/CDinhh/CDinhh/output/snake.svg" alt="Snake animation" />
+<br/><br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CDinhh/CDinhh/output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CDinhh/CDinhh/output/bomberman-contribution-graph.svg?game=bomberman">
