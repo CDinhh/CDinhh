@@ -4,12 +4,18 @@
 
 <br clear="both">
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CDinhh.CDinhh&"  />
-<img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="110" alt="Profile Pic" />
-
-###
-
-<h2 align="left">Hi 👋! My name is Cong Dinh and I'm studying Software Engineering at FPTU.</h2>
+<table border="0" width="100%">
+  <tr>
+    <td valign="middle">
+      <h2 align="left">Hi 👋! My name is Cong Dinh and I'm studying Software Engineering at FPTU.</h2>
+    </td>
+    <td align="right" valign="top" width="140">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=CDinhh.CDinhh&"  />
+      <br/><br/>
+      <img src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="120" alt="Profile Pic" />
+    </td>
+  </tr>
+</table>
 <br/>
 
 <div align="left">
@@ -91,14 +97,14 @@
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td align="center" width="65%">
-        <img src="https://github-readme-streak-stats-dusky-alpha.vercel.app/?user=CDinhh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&refresh=1" alt="streak graph" style="width:100%; max-width: 480px;" />
+      <td align="center" width="55%">
+        <img src="https://github-readme-streak-stats-dusky-alpha.vercel.app/?user=CDinhh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&refresh=1" alt="streak graph" style="width:100%; max-width: 420px;" />
         <br/><br/>
         <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages graph"  />
       </td>
-      <td align="center" valign="middle" width="35%">
+      <td align="center" valign="middle" width="45%">
         <a href="https://open.spotify.com/user/31auwt2sqv3yfunk5cdzj2v52oge">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31auwt2sqv3yfunk5cdzj2v52oge&count=5&unique=false" width="420" alt="Spotify recently played"  />
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31auwt2sqv3yfunk5cdzj2v52oge&count=5&unique=false" width="100%" alt="Spotify recently played"  />
         </a>
       </td>
     </tr>
