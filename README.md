@@ -4,18 +4,13 @@
 
 <br clear="both">
 
-<table border="0" width="100%">
-  <tr>
-    <td valign="middle">
-      <h2 align="left">Hi 👋! My name is Cong Dinh and I'm studying Software Engineering at FPTU.</h2>
-    </td>
-    <td align="right" valign="top" width="140">
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=CDinhh.CDinhh&"  />
-      <br/><br/>
-      <img src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="120" alt="Profile Pic" />
-    </td>
-  </tr>
-</table>
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=CDinhh.CDinhh&"  />
+  <br/>
+  <img src="https://lh3.googleusercontent.com/a/ACg8ocL4OR6yY6aXa0jWNtb7LqAVbZcMWqSrwvUUvks7287P5m7ZLjIWXA=s288-c-no" width="120" alt="Profile Pic" />
+</div>
+
+<h2 align="left">Hi 👋! My name is Cong Dinh and I'm studying Software Engineering at FPTU.</h2>
 <br/>
 
 <div align="left">
