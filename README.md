@@ -11,7 +11,6 @@
 <h2 align="left">Hi 👋! My name is Cong Dinh and I'm studying Software Engineering at FPTU.</h2>
 <br/>
 
-
 <div align="left">
 <h3>Languages and Tools</h3>
    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -103,23 +102,26 @@
   </table>
 </div>
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31auwt2sqv3yfunk5cdzj2v52oge">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31auwt2sqv3yfunk5cdzj2v52oge&count=5&unique=false" width="420" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
 <br clear="both">
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CDinhh/CDinhh/output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CDinhh/CDinhh/output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CDinhh/CDinhh/output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/CDinhh/CDinhh/output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31auwt2sqv3yfunk5cdzj2v52oge">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31auwt2sqv3yfunk5cdzj2v52oge&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
