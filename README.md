@@ -95,7 +95,7 @@
   <img src="https://github-readme-stats-sigma-nine.vercel.app/api/top-langs?username=CDinhh&locale=en&hide_title=false&layout=compact&card_width=480&langs_count=5&theme=dracula&hide_border=false" width="480" alt="Languages graph"  />
   <br/><br/>
   <a href="https://open.spotify.com/user/31auwt2sqv3yfunk5cdzj2v52oge">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31auwt2sqv3yfunk5cdzj2v52oge" width="480" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31auwt2sqv3yfunk5cdzj2v52oge&theme=spotify&width=480&logo=0&duration=1&explicit=0&username=off&footer=wave" width="480" alt="Spotify recently played"  />
   </a>
 </div>
 
